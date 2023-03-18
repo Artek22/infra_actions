@@ -58,6 +58,6 @@ jobs:
         uses: docker/build-push-action@v2 
         with:
           push: true
-          tags: artek22/infra_actions:latest
+          tags: DOCKER_USERNAME/infra_actions:latest
           
   
