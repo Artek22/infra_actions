@@ -26,6 +26,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '158.160.4.169',
+    'evstratov.ddns.net',
     'localhost',
     '127.0.0.1',
 ]
